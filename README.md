@@ -1,5 +1,4 @@
 # Swift IDE For Windows
-Simple Swift IDE for Windows
 
 This project aims to create a user friendly Swift IDE for Microsoft Windows users.
 This project is fully open source and uses "Swift for Windows" project's compiler (https://github.com/SwiftForWindows/SwiftForWindows)
@@ -20,6 +19,11 @@ This project is fully open source and uses "Swift for Windows" project's compile
   
 - Now everything must be OK  👌 ! just run <b>SwiftIDE.exe</b> .
 
+<b><u>Functionalities :</u></b>
+
+- User Friendly UI.
+- Features a <b>Log</b> that stores all actions and compiler errors and suggestions.
+- Compatible with Swift 3/4.
 
 <b><u>Issues :</u></b>
 
