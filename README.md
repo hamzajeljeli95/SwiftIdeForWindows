@@ -1,4 +1,4 @@
-# SwiftIdeForWindows
+# Swift IDE For Windows
 Simple Swift IDE for Windows
 
 This project aims to create a user friendly Swift IDE for Microsoft Windows users.
