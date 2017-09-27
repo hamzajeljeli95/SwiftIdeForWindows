@@ -19,8 +19,12 @@ This project is fully open source and uses "Swift for Windows"'s project compile
   C:\SwiftIDE\mingw64\bin;C:\SwiftIDE\wxWidgets-3.0.3\lib\gcc510TDM_x64_dll;C:\SwiftIDE\usr\lib\swift\mingw;C:\SwiftIDE\usr\bin;
   
 - Now everything must be OK  👌 ! just run <b>SwiftIDE.exe</b> .
+
+
 <b><u>Issues :</u></b>
 
 - For the moment, you just can just write command line apps 😢 .
 
 Please report bugs or suggestions 😜 .
+
+Last edited 9/27/17
