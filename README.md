@@ -18,6 +18,6 @@ Installation :
 
   C:\SwiftIDE\mingw64\bin;C:\SwiftIDE\wxWidgets-3.0.3\lib\gcc510TDM_x64_dll;C:\SwiftIDE\usr\lib\swift\mingw;C:\SwiftIDE\usr\bin;
   
-- Now everything must be OK ! just run SwiftIDE.exe .
+- Now everything must be OK  👌 ! just run <b>SwiftIDE.exe</b> .
 
-Please report bugs or suggestions :D
+Please report bugs or suggestions 😜 .
